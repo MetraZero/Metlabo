@@ -1,0 +1,10 @@
+{
+  "name": "Metlabo.LogicalSwitch",
+  "rootNamespace": "Metlabo",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.SDKBase"
+  ],
+  "autoReferenced": true
+}
