@@ -1,25 +1,10 @@
-# Metlabo (com.metrazero.metlabo)
+# Metlabo（アーカイブ済み）
 
-VRChat/UdonSharp 向けの軽量ユーティリティ集。  
-**VCC/ALCOM**から入れて、すぐ使えるサンプル付き。
+このリポジトリは更新を終了しました。ツールは次のリポジトリに移行しています。
 
-## インストール
-- VCC/ALCOM → **Add Repository**
-  - `https://github.com/MetraZero/Metlabo.git`
-- パッケージ一覧から **Metlabo** を Install
-- 必要なら **Import Samples** でサンプルを導入
+- [Metlab AVA](https://github.com/MetraZero/Metlab-AVA)：アバター向け
+- [Metlab WLD](https://github.com/MetraZero/Metlab-WLD)：ワールド向け
 
-## 収録コンポーネント
-- [Logical Switch](./Docs/logicalSwitch.md)  
-  複数オブジェクトのON/OFF切り替え（UdonSharp）
+VCC / ALCOM の配信リストは次の URL です。
 
-## 必要環境
-- Unity **2022.3 LTS**
-- VRChat SDK Worlds
-- UdonSharp
-
-## ライセンス
-[MIT](./LICENSE)
-
-## 変更履歴
-[CHANGELOG](./CHANGELOG.md)
+`https://metrazero.github.io/vpm-repo/index.json`
